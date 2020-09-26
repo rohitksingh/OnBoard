@@ -1,2 +1,3 @@
+include ':OnBoard'
 include ':app'
 rootProject.name = "OnBoardExample"
